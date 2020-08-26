@@ -3,11 +3,11 @@ vdjpath=/Users/koshka/Documents/favorov2/final/vdjtools-1.2.1/vdjtools-1.2.1.jar
 
 #### init files and folders ####
 clones_in="fastq_final_results/"
-sample_info="sample_info_2.2_corr.txt"
+sample_info="sample_info_final.txt"
 
 #### metadata file #############
 m1="metadata_final.convert.txt"
-antibodies="antibodies/antibodies.aln.txt"
+antibodies="antibodies.aln.txt"
 
 echo $antibodies
 
