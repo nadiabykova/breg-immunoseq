@@ -2,7 +2,8 @@
 Mixcr pipeline; analysis of B- and B-reg cells in patients with multiple sclerosis
 
 MiXCR version 3.0.10
-VDJ version
+
+VDJ version 1.2.1
 
 I. generation of clone tables from original data, and from the data normalized by the number of reads
 
